@@ -1,0 +1,1324 @@
+<rdf:RDF xmlns:void="http://rdfs.org/ns/void#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:book="http://schema.org/Book/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:iiif="http://iiif.io/api/presentation/2.1/" xmlns:cito="http://purl.org/spar/cito/" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:doco="http://purl.org/spar/doco/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sal="http://salamanca.adwmainz.de" xmlns:po="http://www.essepuntato.it/2008/12/pattern#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xml:base="https://id.salamanca.school">
+
+<rdf:Description rdf:about="">
+	<void:inDataset rdf:resource="void.ttl#Salamanca"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/work"/>
+	<fabio:hasTitle>Tratado de cuentas</fabio:hasTitle>
+	<fabio:hasPublicationYear>1522</fabio:hasPublicationYear>
+	<rdfs:seeAlso rdf:resource="http://www.salamanca.school/work.html?wid=W0004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:frontmatter">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/front-matter"/>
+	<rdfs:label>frontmatter</rdfs:label>
+	<po:isContainedBy rdf:resource="works.W0004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:backmatter">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/back-matter"/>
+	<rdfs:label>backmatter</rdfs:label>
+	<po:isContainedBy rdf:resource="works.W0004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:1">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:2">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:3">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:4">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:5">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:6">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:7">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:8">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:9">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:10">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:11">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:12">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:13">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:14">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:15">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:16">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:17">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:18">
+	<rdf:type rdf:resource="http://purl.org/spar/doco/section"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:1">
+	<rdfs:label>Prologo</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:2">
+	<rdfs:label>Primera parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:3">
+	<rdfs:label>Segunda parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:4">
+	<rdfs:label>Tercera parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:5">
+	<rdfs:label>Quarta parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:6">
+	<rdfs:label>Quinta parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:7">
+	<rdfs:label>Sexta parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:8">
+	<rdfs:label>Setena parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:9">
+	<rdfs:label>Octava parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:10">
+	<rdfs:label>Novena parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:11">
+	<rdfs:label>Dezena parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:12">
+	<rdfs:label>Onzena parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:13">
+	<rdfs:label>Dozena parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:14">
+	<rdfs:label>Trezena parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:15">
+	<rdfs:label>Catorzena parte</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:16">
+	<rdfs:label>Tabla</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:17">
+	<rdfs:label>Privilegio</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p1">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p2">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p3">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p4">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p5">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p6">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p7">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p8">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p9">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p10">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p11">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p12">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p13">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p14">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p15">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p16">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p17">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p18">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p19">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p20">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p21">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p22">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p23">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p24">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p25">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p26">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p27">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p28">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p29">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p30">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p31">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p32">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p33">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p34">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p35">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p36">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p37">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p38">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p39">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p40">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p41">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p42">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p43">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p44">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p45">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p46">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p47">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p48">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p49">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p50">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p51">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p52">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p53">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p54">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p55">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p56">
+	<rdf:type rdf:resource="http://purl.org/spar/fabio/page"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p1">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p2">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p3">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p4">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p5">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p6">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p7">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p8">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p9">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p10">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p11">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p12">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p13">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p14">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p15">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p16">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p17">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p18">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p19">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p20">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p21">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p22">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p23">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p24">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p25">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p26">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p27">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p28">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p29">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p30">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p31">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p32">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p33">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p34">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p35">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p36">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p37">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p38">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p39">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p40">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p41">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p42">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p43">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p44">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p45">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p46">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p47">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p48">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p49">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p50">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p51">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p52">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p53">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p54">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p55">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p56">
+	<rdf:type rdf:resource="http://iiif.io/api/presentation/2.1/canvas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p1">
+	<rdfs:label>fol. 1r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p2">
+	<rdfs:label>fol. 1v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p3">
+	<rdfs:label>fol. 2r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p4">
+	<rdfs:label>fol. 2v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p5">
+	<rdfs:label>fol. 3r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p6">
+	<rdfs:label>fol. 3v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p7">
+	<rdfs:label>fol. 4r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p8">
+	<rdfs:label>fol. 4v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p9">
+	<rdfs:label>fol. 5r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p10">
+	<rdfs:label>fol. 5v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p11">
+	<rdfs:label>fol. 6r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p12">
+	<rdfs:label>fol. 6v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p13">
+	<rdfs:label>fol. 7r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p14">
+	<rdfs:label>fol. 7v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p15">
+	<rdfs:label>fol. 8r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p16">
+	<rdfs:label>fol. 8v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p17">
+	<rdfs:label>fol. 9r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p18">
+	<rdfs:label>fol. 9v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p19">
+	<rdfs:label>fol. 10r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p20">
+	<rdfs:label>fol. 10v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p21">
+	<rdfs:label>fol. 11r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p22">
+	<rdfs:label>fol. 11v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p23">
+	<rdfs:label>fol. 12r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p24">
+	<rdfs:label>fol. 12v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p25">
+	<rdfs:label>fol. 13r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p26">
+	<rdfs:label>fol. 13v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p27">
+	<rdfs:label>fol. 14r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p28">
+	<rdfs:label>fol. 14v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p29">
+	<rdfs:label>fol. 15r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p30">
+	<rdfs:label>fol. 15v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p31">
+	<rdfs:label>fol. 16r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p32">
+	<rdfs:label>fol. 16v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p33">
+	<rdfs:label>fol. 17r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p34">
+	<rdfs:label>fol. 17v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p35">
+	<rdfs:label>fol. 18r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p36">
+	<rdfs:label>fol. 18v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p37">
+	<rdfs:label>fol. 19r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p38">
+	<rdfs:label>fol. 19v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p39">
+	<rdfs:label>fol. 20r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p40">
+	<rdfs:label>fol. 20v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p41">
+	<rdfs:label>fol. 21r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p42">
+	<rdfs:label>fol. 21v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p43">
+	<rdfs:label>fol. 22r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p44">
+	<rdfs:label>fol. 22v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p45">
+	<rdfs:label>fol. 23r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p46">
+	<rdfs:label>fol. 23v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p47">
+	<rdfs:label>fol. 24r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p48">
+	<rdfs:label>fol. 24v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p49">
+	<rdfs:label>fol. 25r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p50">
+	<rdfs:label>fol. 25v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p51">
+	<rdfs:label>fol. 26r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p52">
+	<rdfs:label>fol. 26v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p53">
+	<rdfs:label>fol. 27r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p54">
+	<rdfs:label>fol. 27v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p55">
+	<rdfs:label>fol. 28r</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004:p56">
+	<rdfs:label>fol. 28v</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-1">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-2">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-3">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-4">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-5">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-6">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-7">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-8">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-9">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-10">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-11">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-12">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-13">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-14">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-15">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-16">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-17">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-18">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-19">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-20">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-1">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-2">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-3">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-4">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-5">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-6">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-7">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-8">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-9">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-10">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-11">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-12">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-13">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-14">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-15">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-16">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-17">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-18">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-19">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-20">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-1">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-2">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-3">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-4">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-5">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-6">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-7">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-8">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-9">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-10">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-11">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-12">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-13">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-14">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-15">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-16">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-17">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-18">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-19">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01341446"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-cerl-20">
+	<cito:hasCitedEntity rdf:resource="http://thesaurus.cerl.org/record/cnp01302817"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-1">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-2">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-3">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-4">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-5">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-6">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-7">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-8">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-9">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-10">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-11">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-12">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-13">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-14">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-15">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-16">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-17">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-18">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-19">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-20">
+	<rdf:type rdf:resource="http://purl.org/spar/cito/citationAct"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-1">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-2">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-3">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-4">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-5">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-6">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-7">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-8">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-9">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-10">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-11">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-12">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-13">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-14">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-15">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-16">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-17">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-18">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-19">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-20">
+	<cito:hasCitationCharacterization rdf:resource="http://purl.org/spar/cito/citesAsRelated"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-1">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-2">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-3">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-4">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-5">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-6">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-7">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-8">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-9">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-10">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-11">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-12">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-13">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-14">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-15">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-16">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-17">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-18">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-19">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118803085"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-95b1860d9e1c4ae7ad3847c6ffd97b6e-CitationAct_d_W0004-gnd-20">
+	<cito:hasCitedEntity rdf:resource="http://d-nb.info/gnd/118652885"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="works.W0004">
+	<book:mentions rdf:resource="http://vocab.getty.edu/tgn/7024097"/>
+	<book:mentions rdf:resource="http://vocab.getty.edu/tgn/7008561"/>
+	<book:mentions rdf:resource="http://vocab.getty.edu/tgn/7002850"/>
+</rdf:Description>
+
+</rdf:RDF>
